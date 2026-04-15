@@ -23,9 +23,11 @@ The result: hours of wasted time, inconsistent data, copy-paste errors, and zero
 A complete **desktop application inside Excel** — no external software, no installation, no database server. The production team opens one `.xlsm` file and gets a fully functional ERP module.
 
 ![TI Data Entry UI](screenshots/ui_form.png)
+
 *The clean data entry interface — Current Transformer Technical Instruction form*
 
 ![Print Output](screenshots/print_output.png)
+
 *What gets printed — exact original Shubhada format with logo, fields, core table, signatures*
 
 ---
