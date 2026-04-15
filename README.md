@@ -176,6 +176,7 @@ The TI format has evolved over time and may change. Hardcoding column positions 
 ## About the Developer
 
 **Piyush Kothawade** — Data Analyst & AI Automation Specialist  [LinkedIn](https://www.linkedin.com/in/piyush-kothawade/) · [Portfolio](https://codebasics.io/portfolio/Piyush-Kothawade)
+
 Building AI-powered automation systems for manufacturing operations at Shubhada Polymers.
 
 
