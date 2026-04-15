@@ -26,7 +26,7 @@ A complete **desktop application inside Excel** — no external software, no ins
 
 *The clean data entry interface — Current Transformer Technical Instruction form*
 
-**Can not upload the image due to privacy issues
+**Can not upload the image due to privacy issues**
 
 *What gets printed — exact original Shubhada format with logo, fields, core table, signatures*
 
